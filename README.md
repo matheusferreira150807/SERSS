@@ -2,7 +2,7 @@
 
 **Hub de Energia, Logística Inteligente e Operações Sustentáveis**
 
-> Global Solution · Ciência da Computação (1CC) · **Soluções em Energias Renováveis e Sustentáveis**
+> Global Solution · Ciência da Computação (1CCPK) · **Soluções em Energias Renováveis e Sustentáveis**
 
 Sistema inteligente de **monitoramento de sistemas energéticos** de uma missão
 espacial experimental. O HELIOS recebe, interpreta e exibe dados simulados das
